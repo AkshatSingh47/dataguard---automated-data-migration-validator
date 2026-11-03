@@ -1,0 +1,6 @@
+{
+  "name": "DataGuard — Automated Data Migration Validator",
+  "description": "Automated validation tool that compares source and target databases after migration to detect schema mismatches, missing/duplicate records, value disparities, null discrepancies, referential integrity breaches, and aggregate differences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
